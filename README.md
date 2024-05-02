@@ -261,8 +261,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 👋🏻 **Note**: AI4LAM's [conferences tracker Google sheet](https://docs.google.com/spreadsheets/d/1jO8dKt0CuhZKq382OZRdMSGOU3OpJhgK2nJ-FAynbeo/edit#gid=1287495458) has a more complete list of events. The following is a list of larger and/or especially relevant events for AI4LAM.
 
-- [BitCurator Forum](https://bitcuratorconsortium.org/forum) – Mar. 19–22 virtual event on digital forensics, digital archives, and related digital analysis workflows
-- [IIPC General Assembly &amp; Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
+- [Generative AI in Libraries (GAIL)](https://shsulibraryguides.org/genailibraries/home) - June 11, 12, & 13, 2024, from 1-4pm EDT each day, virtual.
 - [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – Jul. 29–31 at Michigan State U., East Lansing, Michigan, USA.
 - [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 - [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
@@ -272,6 +271,8 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 ### Past Conferences and Workshops
 
+- [BitCurator Forum](https://bitcuratorconsortium.org/forum) – Mar. 19–22 virtual event on digital forensics, digital archives, and related digital analysis workflows
+- [IIPC General Assembly &amp; Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
 - [Fantastic Futures 2018](https://www.nb.no/hva-skjer/ai-conference/) – Dec. 5 at the National Library of Norway, Oslo, Norway.
 - [Fantastic Futures 2019](https://wayback.stanford.edu/was/20230508165810/http://library.stanford.edu/projects/fantastic-futures) – Dec. 4–6 at Stanford University, Stanford, California, USA.
 - [Fantastic Futures 2021](https://www.bnf.fr/fr/captations-et-supports-de-la-conference-2021) – Dec. 8–10 at the Bibliothèque nationale de France, Paris, France.
